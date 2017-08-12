@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 working in dev branch.
 bugs has fixed!
+i working in dev branch.
